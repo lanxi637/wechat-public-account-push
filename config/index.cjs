@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '2f746925ca3f6fec5e50a5016602e8a2',
 
-  PROVINCE: '贵州省',
-  CITY: '望谟县',
+  PROVINCE: '贵州',
+  CITY: '望谟',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oThCa5tJ-ZuY_WILCCl0mHnUhQDQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0ZkjV3AYSN51twDmjEcu0K5yGwX1PIj_mQgry31SBkM 	',
+      useTemplateId: '0ZkjV3AYSN51twDmjEcu0K5yGwX1PIj_mQgry31SBkM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-01',
       festivals: [
