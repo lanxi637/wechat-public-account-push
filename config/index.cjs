@@ -13,7 +13,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '2f746925ca3f6fec5e50a5016602e8a2',
 
-  PROVINCE: '贵州省',
+  PROVINCE: '贵州',
   CITY: '望谟县',
   
   key: 'bfb6b36561a9fcec8ee4e10f0f14128d',
@@ -52,7 +52,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'oThCa5tJ-ZuY_WILCCl0mHnUhQDQ',
+  CALLBACK_TEMPLATE_ID: '9jMO9VWiBChiYJSGkOZS4eq88Zkrng-n9eYgaetZ0yk',
 
   CALLBACK_USERS: [
     {
