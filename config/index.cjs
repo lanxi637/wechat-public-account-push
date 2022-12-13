@@ -34,7 +34,7 @@ const USER_CONFIG = {
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
     networkHotType: 'default',
   },
-  PROVINCE: '贵阳',
+  PROVINCE: '望谟县',
   CITY: '望谟县',
 
   USERS: [
@@ -44,7 +44,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oThCa5k-4b7Q0S3mcowRUxqZofgA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'wcKQMSwksbiDaWqMdZs_lY53eXTs2urkc507WSJe56Y',
+      useTemplateId: 'TLtZ2piD_BKbxvCJq9Uk5i_A6vW4FZgGigx7iHeXAWQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-01',
       festivals: [
@@ -75,7 +75,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oThCa5tJ-ZuY_WILCCl0mHnUhQDQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'wcKQMSwksbiDaWqMdZs_lY53eXTs2urkc507WSJe56Y',
+      useTemplateId: 'TLtZ2piD_BKbxvCJq9Uk5i_A6vW4FZgGigx7iHeXAWQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-01',
       festivals: [
