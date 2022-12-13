@@ -17,7 +17,7 @@ const USER_CONFIG = {
     key: 'bfb6b36561a9fcec8ee4e10f0f14128d',
     
     // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    morningGreeting: false,
+    morningGreeting: true,
   
     // 晚安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     eveningGreeting: false,
@@ -34,8 +34,8 @@ const USER_CONFIG = {
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
     networkHotType: 'default',
   },
-  PROVINCE: '贵州',
-  CITY: '贵阳',
+  PROVINCE: '黔西南州',
+  CITY: '望谟县',
 
   USERS: [
     {
@@ -68,7 +68,7 @@ const USER_CONFIG = {
       ],
     },
   ],
-USERS: [
+  USERS: [
     {
       // 想要发送的人的名字
       name: '念念宝贝',
